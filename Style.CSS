@@ -4,16 +4,17 @@ color: green;
  }
  
 body{
-    font-family: san-seirf;
+    font-family: sans-seirf;
 }
 
 h2{ 
-    color: yellowgreen
-    font-style: italic
+    color: yellowgreen;
+    font-style: italic;
 }
 ol{
-    border: 3px solid black;
+    border: 3px solid;
 }
+
 li{
     font-style: bold;
 } 
