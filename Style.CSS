@@ -13,9 +13,16 @@ h2{
 }
 ol{
     border: 3px solid;
+    padding: 40px;
 }
 
 li{
     font-style: bold;
+    color: red;
 } 
+p{
+    font-style: italic;
+    font-weight: larger;
+    text-shadow:0px 5px ;
+}
 
